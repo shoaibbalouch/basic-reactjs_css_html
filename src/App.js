@@ -40,7 +40,7 @@ function App() {
   </div>
 </nav>
    <div className="container">
-      <h1>welocme the 1st website{name}</h1>
+      <h1>welcome the 1st website{name}</h1>
       <p>It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. Youll need to have Node = 14.0.0 and npm = 5.6 on your machine. To create a project, run:
       </p>
       <div class="mb-3">
